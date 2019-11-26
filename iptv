@@ -1,0 +1,263 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="----- (TR) ULUSAL KANALLAR-----" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TURKIYE_LOGO_SD.png" group-title="TR- ULUSAL",----- (TR) ULUSAL KANALLAR-----
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/1420
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TRT 1" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/trt1_250x150.png" group-title="TR- ULUSAL",TR: TRT 1
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/7045
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TRT 1 FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TRT1_HD.png" group-title="TR- ULUSAL",TR: TRT 1 FHD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/5926
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TRT 2 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TRT2_HD.png" group-title="TR- ULUSAL",TR: TRT 2 HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/54858
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TRT 2 FHD" tvg-logo="" group-title="TR- ULUSAL",TR: TRT 2 FHD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/71964
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: ATV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/ATV_SD.png" group-title="TR- ULUSAL",TR: ATV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/7040
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: ATV FHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/aHD_250x150.png" group-title="TR- ULUSAL",TR: ATV FHD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/5920
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SHOW TV" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/show_250x150.png" group-title="TR- ULUSAL",TR: SHOW TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/5919
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SHOW TV FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/SHOW_HD.png" group-title="TR- ULUSAL",TR: SHOW TV FHD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/7041
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: STAR TV" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/star250x150.png" group-title="TR- ULUSAL",TR: STAR TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/5788
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: STAR TV FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/STAR_HD.png" group-title="TR- ULUSAL",TR: STAR TV FHD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/30
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL D" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/c9/a2/9f/c9a29f88e61fe3dbe392b37a1e208185.png" group-title="TR- ULUSAL",TR: KANAL D
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/5787
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL D FHD" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/c9/a2/9f/c9a29f88e61fe3dbe392b37a1e208185.png" group-title="TR- ULUSAL",TR: KANAL D FHD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/32
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FOX TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/FOX_SD.png" group-title="TR- ULUSAL",TR: FOX TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/7042
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FOX TV FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/FOX_HD.png" group-title="TR- ULUSAL",TR: FOX TV FHD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/5923
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TV8" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/TV8_250x150.png" group-title="TR- ULUSAL",TR: TV8
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/7046
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TV 8 FHD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TV8_HD.png" group-title="TR- ULUSAL",TR: TV 8 FHD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/5922
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TV 8.5" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/250x150-tv8-5.png" group-title="TR- ULUSAL",TR: TV 8.5
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/5927
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: BEYAZ TV HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beyaz_250x150.png" group-title="TR- ULUSAL",TR: BEYAZ TV HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/5924
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL7 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Kanal1_7.png" group-title="TR- ULUSAL",TR: KANAL7 HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/40
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TEVE2 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TEVE2_HD.png" group-title="TR- ULUSAL",TR: TEVE2 HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/142
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: A2 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/a2_250x150.png" group-title="TR- ULUSAL",TR: A2 HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/5928
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SHOW MAX" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/SHOW_MAX_SD.png" group-title="TR- ULUSAL",TR: SHOW MAX
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/44065
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: 360 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/360_HD.png" group-title="TR- ULUSAL",TR: 360 HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/5957
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TLC HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/23/Image/50x50_tlc.png" group-title="TR- ULUSAL",TR: TLC HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/5967
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TRT TURK HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TRT_TURK_HD.png" group-title="TR- ULUSAL",TR: TRT TURK HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/44066
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TV NET" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/tvnett___250x150.png" group-title="TR- ULUSAL",TR: TV NET
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/5965
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TURKIYEM TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TURKIYEM_TV_SD.png" group-title="TR- ULUSAL",TR: TURKIYEM TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/44083
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TV5" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL_5_SD.png" group-title="TR- ULUSAL",TR: TV5
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/44079
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: WM TV WOMAN KADIN TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TV_WOMAN_KADIN_SD.png" group-title="TR- ULUSAL",TR: WM TV WOMAN KADIN TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/54367
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: AKILLI TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/AKILLI_TV_SD.png" group-title="TR- ULUSAL",TR: AKILLI TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/39136
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SHOW TURK" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/SHOW_TURK_SD.png" group-title="TR- ULUSAL",TR: SHOW TURK
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/44068
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: ATV AVRUPA" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/ATV_AVRUPA_SD.png" group-title="TR- ULUSAL",TR: ATV AVRUPA
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/54872
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: EURO D" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL_D_EURO_SD.png" group-title="TR- ULUSAL",TR: EURO D
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/33515
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: EURO STAR" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/EURO_STAR_SD.png" group-title="TR- ULUSAL",TR: EURO STAR
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/40222
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TV8 INT" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TV8_INT_SD.png" group-title="TR- ULUSAL",TR: TV8 INT
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/33512
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL7 AVRUPA" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL7_AVRUPA_SD.png" group-title="TR- ULUSAL",TR: KANAL7 AVRUPA
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/54919
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: UCANKUS TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/UCANKUS_TV_SD.png" group-title="TR- ULUSAL",TR: UCANKUS TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/54861
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: EKO TURK" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/EKOTURK_SD.png" group-title="TR- ULUSAL",TR: EKO TURK
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/44075
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: VATAN TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/VATAN_TV_SD.png" group-title="TR- ULUSAL",TR: VATAN TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/19403
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: BEREKET TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/BEREKET_TV_SD.png" group-title="TR- ULUSAL",TR: BEREKET TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/17862
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: CiFTCi TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/CIFTCI_TV_SD.png" group-title="TR- ULUSAL",TR: CiFTCi TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/44077
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR:KOY TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KOY_TV_SD.png" group-title="TR- ULUSAL",TR:KOY TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/1772
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: AV TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/AV_TV_SD.png" group-title="TR- ULUSAL",TR: AV TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/56405
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: BENGU TURK" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/BENGU_TURK_SD.png" group-title="TR- ULUSAL",TR: BENGU TURK
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/17863
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL B" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANALB_SD.png" group-title="TR- ULUSAL",TR: KANAL B
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/44074
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: VIZYON58 SIVAS" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/VIZYON_58_TV.png" group-title="TR- ULUSAL",TR: VIZYON58 SIVAS
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/54871
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL 58" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL58_SD.png" group-title="TR- ULUSAL",TR: KANAL 58
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/1748
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SRT SIVAS" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/SRTSIVAS_SD.png" group-title="TR- ULUSAL",TR: SRT SIVAS
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/54860
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL V" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL_V_SD.png" group-title="TR- ULUSAL",TR: KANAL V
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/36962
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TV A ADANA" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TV_A.png" group-title="TR- ULUSAL",TR: TV A ADANA
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/36968
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: ER TV MALATYA" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/ERTV_SD.png" group-title="TR- ULUSAL",TR: ER TV MALATYA
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/36967
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL 26 ESKISEHIR" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL26_SD.png" group-title="TR- ULUSAL",TR: KANAL 26 ESKISEHIR
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/36965
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL 68 AKSARAY" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL68_SD.png" group-title="TR- ULUSAL",TR: KANAL 68 AKSARAY
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/36963
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: YOL TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/YOL_TV_SD.png" group-title="TR- ULUSAL",TR: YOL TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/40221
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: GUNEYDOGU TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/GUNEYDOGU_TV_SD.png" group-title="TR- ULUSAL",TR: GUNEYDOGU TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/33530
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: HRT AKDENIZ TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/HRT_AKDENIZ_SD.png" group-title="TR- ULUSAL",TR: HRT AKDENIZ TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/33529
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KADIRGA TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KADIRGA_TV_SD.png" group-title="TR- ULUSAL",TR: KADIRGA TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/33528
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL 43" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/43_TV_SD.png" group-title="TR- ULUSAL",TR: KANAL 43
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/33526
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL TEK" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL_TEK_SD.png" group-title="TR- ULUSAL",TR: KANAL TEK
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/33523
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KACKAR TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KACKAR_TV_SD.png" group-title="TR- ULUSAL",TR: KACKAR TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/17854
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: HABER AKS" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/HABER_5_AKS_TV.png" group-title="TR- ULUSAL",TR: HABER AKS
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/17855
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: LINE TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/LINE_TV_SD.png" group-title="TR- ULUSAL",TR: LINE TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/33522
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: OLAY TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/OLAY_TV_SD.png" group-title="TR- ULUSAL",TR: OLAY TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/33521
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: DOGAL TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/DOGAL_TV_SD-e1561860231300.png" group-title="TR- ULUSAL",TR: DOGAL TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/17868
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: EGE TURK" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/EGE_TURK_SD.png" group-title="TR- ULUSAL",TR: EGE TURK
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/17859
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: ERT SAH TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/ERT_TV.png" group-title="TR- ULUSAL",TR: ERT SAH TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/17858
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: ES TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/ES_TV_SD.png" group-title="TR- ULUSAL",TR: ES TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/17857
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL 42" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL42_SD.png" group-title="TR- ULUSAL",TR: KANAL 42
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/17853
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KON TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KONTV_SD.png" group-title="TR- ULUSAL",TR: KON TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/17851
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: MANISA MEDYA TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/MANISA_MEDYA_SD.png" group-title="TR- ULUSAL",TR: MANISA MEDYA TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/17849
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TMB TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TMB_SD.png" group-title="TR- ULUSAL",TR: TMB TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/17845
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TV 52" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/52_TV.png" group-title="TR- ULUSAL",TR: TV 52
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/17844
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: ADA TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/ADATV_SD.png" group-title="TR- ULUSAL",TR: ADA TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/44058
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: AKSU TV K.MARAS" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/AKSU_TV_SD.png" group-title="TR- ULUSAL",TR: AKSU TV K.MARAS
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/44062
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: ANADOLU TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/ANADOLU_TV.png" group-title="TR- ULUSAL",TR: ANADOLU TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/44067
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: BRT 1" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/BRT1_SD.png" group-title="TR- ULUSAL",TR: BRT 1
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/44057
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: BRT SPOR HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/BRTSPOR_HD.png" group-title="TR- ULUSAL",TR: BRT SPOR HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/44056
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: DIYALOG TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/DIYALOGTV_SD.png" group-title="TR- ULUSAL",TR: DIYALOG TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/44055
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: MGC" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/MGC_SD.png" group-title="TR- ULUSAL",TR: MGC
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/44061
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KTV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KTV_SD.png" group-title="TR- ULUSAL",TR: KTV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/44054
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: BAHAR TURK" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/BAHAR_TURK_SD.png" group-title="TR- ULUSAL",TR: BAHAR TURK
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/54369
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: MUZIK TURK" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/DIYALOGTV_SD.png" group-title="TR- ULUSAL",TR: MUZIK TURK
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/44059
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KENT TURK KAYSERI" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KENT_TURK.png" group-title="TR- ULUSAL",TR: KENT TURK KAYSERI
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/44082
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: ANADOLU DERNEK" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/ANADOLU_DERNEK_SD.png" group-title="TR- ULUSAL",TR: ANADOLU DERNEK
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/44078
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: CEM TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/CEM_TV_SD.png" group-title="TR- ULUSAL",TR: CEM TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/1683
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL AVRUPA" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL_AVRUPA_SD.png" group-title="TR- ULUSAL",TR: KANAL AVRUPA
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/44081
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KOZA TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KOZA_SD.png" group-title="TR- ULUSAL",TR: KOZA TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/44073
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: MAVi KARADENiZ" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/MAVI_KARADENIZ_SD.png" group-title="TR- ULUSAL",TR: MAVi KARADENiZ
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/44071
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SIM TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/SIMTV_SD.png" group-title="TR- ULUSAL",TR: SIM TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/44053
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TEK RUMELi" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TEK_RUMELi_SD.png" group-title="TR- ULUSAL",TR: TEK RUMELi
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/45
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: VUSLAT TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/VUSLAT_TV_SD.png" group-title="TR- ULUSAL",TR: VUSLAT TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/17314
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: DRT DENIZLI TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/DENIZLI_RT_SD.png" group-title="TR- ULUSAL",TR: DRT DENIZLI TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/1681
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL 3 AFYON" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL_3_SD.png" group-title="TR- ULUSAL",TR: KANAL 3 AFYON
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/1768
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TV KAYSERI" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TVKAYSERI_SD.png" group-title="TR- ULUSAL",TR: TV KAYSERI
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/1759
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: DEHA TV DENIZLI" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/DEHA_TV_SD.png" group-title="TR- ULUSAL",TR: DEHA TV DENIZLI
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/9393
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: BERAT TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/BOS_PICON_HD.png" group-title="TR- ULUSAL",TR: BERAT TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/59168
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: BEYKENT TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/BEYKENT_TV_SD.png" group-title="TR- ULUSAL",TR: BEYKENT TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/59189
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: CUKUROVA TURK" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/CUKUROVA_TURK.png" group-title="TR- ULUSAL",TR: CUKUROVA TURK
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/59183
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: GALA TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/GALA_TV.png" group-title="TR- ULUSAL",TR: GALA TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/59182
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL 32" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL32_SD.png" group-title="TR- ULUSAL",TR: KANAL 32
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/59170
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL ANTALYA" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL_ANTALYA.png" group-title="TR- ULUSAL",TR: KANAL ANTALYA
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/59181
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL K33" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL_33_SD.png" group-title="TR- ULUSAL",TR: KANAL K33
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/59188
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KOCAELI TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KOCAELI_TV_SD.png" group-title="TR- ULUSAL",TR: KOCAELI TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/59180
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: MAXIM TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/MAKSIM_TV.png" group-title="TR- ULUSAL",TR: MAXIM TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/59179
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: MERKEZ TV BOLU" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/MERKEZ_TV.png" group-title="TR- ULUSAL",TR: MERKEZ TV BOLU
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/59186
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: PAMUKKALE TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/PAMUKKALE_TV_SD.png" group-title="TR- ULUSAL",TR: PAMUKKALE TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/59184
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: PARK TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/PARKTV_SD.png" group-title="TR- ULUSAL",TR: PARK TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/59177
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SHOPPING CHANNEL" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/SHOPPING_CHANNEL_SD.png" group-title="TR- ULUSAL",TR: SHOPPING CHANNEL
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/59176
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TEMPO TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TEMPOTV_SD.png" group-title="TR- ULUSAL",TR: TEMPO TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/59175
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TGRT EU" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TGRTEU_SD.png" group-title="TR- ULUSAL",TR: TGRT EU
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/59190
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TV1 KAYSERI" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TV1_SD.png" group-title="TR- ULUSAL",TR: TV1 KAYSERI
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/59169
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TVO" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TVO.png" group-title="TR- ULUSAL",TR: TVO
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/59174
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: HAZAN TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/HAZAN_TV.png" group-title="TR- ULUSAL",TR: HAZAN TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/59203
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TOP SHOP TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TOP_SHOP_SD.png" group-title="TR- ULUSAL",TR: TOP SHOP TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/59204
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: AS TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/AS_TV_SD.png" group-title="TR- ULUSAL",TR: AS TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/59406
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: EDESSA TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/EDESSA_TV_SD.png" group-title="TR- ULUSAL",TR: EDESSA TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/59405
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: GAZIANTEP OLAY TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/GAZIANTEP_OLAY_TV_SD.png" group-title="TR- ULUSAL",TR: GAZIANTEP OLAY TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/59409
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: K 15" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/K15_SD.png" group-title="TR- ULUSAL",TR: K 15
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/59408
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL URFA" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL_URFA_SD.png" group-title="TR- ULUSAL",TR: KANAL URFA
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/59401
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL5 GAZIANTEP" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL5_SD.png" group-title="TR- ULUSAL",TR: KANAL5 GAZIANTEP
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/59400
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: ON6" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/ON6_TV_SD.png" group-title="TR- ULUSAL",TR: ON6
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/59399
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SAT7 TURK" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/SAT7TURK_SD.png" group-title="TR- ULUSAL",TR: SAT7 TURK
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/59403
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL T" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANALT_SD.png" group-title="TR- ULUSAL",TR: KANAL T
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/8871
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KIBRIS GENC TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/GENCTV_SD.png" group-title="TR- ULUSAL",TR: KIBRIS GENC TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/9319
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TV4 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TV4_HD.png" group-title="TR- ULUSAL",TR: TV4 HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/9390
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TV 35" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TV_35.png" group-title="TR- ULUSAL",TR: TV 35
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/54870
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: METRO RTV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/METRO_TV_SD.png" group-title="TR- ULUSAL",TR: METRO RTV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/54880
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SUN RTV MERSIN" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/METRO_TV_SD.png" group-title="TR- ULUSAL",TR: SUN RTV MERSIN
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/54869
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TV DEN" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TV_DEN_SD.png" group-title="TR- ULUSAL",TR: TV DEN
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/9396
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: CAY TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/CAY_TV_SD.png" group-title="TR- ULUSAL",TR: CAY TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/1743
