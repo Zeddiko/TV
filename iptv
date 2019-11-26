@@ -261,3 +261,351 @@ http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/54869
 http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/9396
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: CAY TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/CAY_TV_SD.png" group-title="TR- ULUSAL",TR: CAY TV
 http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/1743
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="----- (TR) FILM ve DIZI KANALLARI-----" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TURKIYE_LOGO_SD.png" group-title="TR- SINEMA",----- (TR) FILM ve DIZI KANALLARI-----
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/1422
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: beIN MOVIES TURK HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/381/Image/70x46_turk_hd_agu2017.png" group-title="TR- SINEMA",TR: beIN MOVIES TURK HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/5939
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: beIN MOVIES STARS HD" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/stars_hd.png" group-title="TR- SINEMA",TR: beIN MOVIES STARS HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/8843
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: beIN MOVIES PREMIER HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/271/Image/70x46_premier_hd_agu2017.png" group-title="TR- SINEMA",TR: beIN MOVIES PREMIER HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/8838
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: beIN MOVIES PREMIER 2 HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/327/Image/70x46_premier2_hd_agu2017.png" group-title="TR- SINEMA",TR: beIN MOVIES PREMIER 2 HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/17298
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: beIN MOVIES ACTION HD" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/action_hd.png" group-title="TR- SINEMA",TR: beIN MOVIES ACTION HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/8839
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: beIN MOVIES ACTION 2 HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/454/Image/70x46_action2_hd_agu2017.png" group-title="TR- SINEMA",TR: beIN MOVIES ACTION 2 HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/17299
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: beIN MOVIES FAMILY HD" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/family_hd.png" group-title="TR- SINEMA",TR: beIN MOVIES FAMILY HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/8842
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: beIN MOVIES ANIMASYON HD" tvg-logo="" group-title="TR- SINEMA",TR: beIN MOVIES ANIMASYON HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/8846
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: beIN MOVIES YESILCAM HD" tvg-logo="" group-title="TR- SINEMA",TR: beIN MOVIES YESILCAM HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/39704
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: beIN BOX OFFICE 1" tvg-logo="" group-title="TR- SINEMA",TR: beIN BOX OFFICE 1
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/11
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: beIN BOX OFFICE 2" tvg-logo="" group-title="TR- SINEMA",TR: beIN BOX OFFICE 2
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/12
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: beIN BOX OFFICE 3" tvg-logo="" group-title="TR- SINEMA",TR: beIN BOX OFFICE 3
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/13
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: beIN SERIES SCI-FI HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/375/Image/70x46_series_sci_fi_hd_agu2017.png" group-title="TR- SINEMA",TR: beIN SERIES SCI-FI HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/11809
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: beIN SERIES VICE HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/255/Image/70x46_series_vice_hd_agu2017.png" group-title="TR- SINEMA",TR: beIN SERIES VICE HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/17302
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: beIN SERIES DRAMA HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/263/Image/70x46_series_drama_hd_agu2017.png" group-title="TR- SINEMA",TR: beIN SERIES DRAMA HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/17301
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: beIN SERIES COMEDY HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/326/Image/70x46_series_comedy_hd_agu2017.png" group-title="TR- SINEMA",TR: beIN SERIES COMEDY HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/17300
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: beIN MOVIES OSCARS HD" tvg-logo="" group-title="TR- SINEMA",TR: beIN MOVIES OSCARS HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/21458
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FilmBox HD" tvg-logo="" group-title="TR- SINEMA",TR: FilmBox HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/21455
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: beIN SERIES YESILCAM CLASSIC" tvg-logo="" group-title="TR- SINEMA",TR: beIN SERIES YESILCAM CLASSIC
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/21446
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: movie SMART Turk HD" tvg-logo="" group-title="TR- SINEMA",TR: movie SMART Turk HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/17832
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: movie SMART Family HD" tvg-logo="" group-title="TR- SINEMA",TR: movie SMART Family HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/9313
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: movie SMART Action HD" tvg-logo="" group-title="TR- SINEMA",TR: movie SMART Action HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/9306
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: movie SMART Gold HD" tvg-logo="" group-title="TR- SINEMA",TR: movie SMART Gold HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/9314
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: movie SMART Premium HD" tvg-logo="" group-title="TR- SINEMA",TR: movie SMART Premium HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/9315
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: movie SMART Premium 2 HD" tvg-logo="" group-title="TR- SINEMA",TR: movie SMART Premium 2 HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/19696
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: movie SMART Platin HD" tvg-logo="" group-title="TR- SINEMA",TR: movie SMART Platin HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/9304
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: movie SMART Platin 2 HD" tvg-logo="" group-title="TR- SINEMA",TR: movie SMART Platin 2 HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/19697
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: movie SMART Fest HD" tvg-logo="" group-title="TR- SINEMA",TR: movie SMART Fest HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/9305
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: movie SMART Classic HD" tvg-logo="" group-title="TR- SINEMA",TR: movie SMART Classic HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/19698
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: dizi SMART Premium HD" tvg-logo="" group-title="TR- SINEMA",TR: dizi SMART Premium HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/17833
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: dizi SMART Max HD" tvg-logo="" group-title="TR- SINEMA",TR: dizi SMART Max HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/39178
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KEMAL SUNAL TV" tvg-logo="" group-title="TR- SINEMA",TR: KEMAL SUNAL TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/19951
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SENER SEN TV" tvg-logo="" group-title="TR- SINEMA",TR: SENER SEN TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/24182
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: ZEKI ALASYA & METIN AKPINAR TV" tvg-logo="" group-title="TR- SINEMA",TR: ZEKI ALASYA & METIN AKPINAR TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/24640
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: CUNEYT ARKIN TV" tvg-logo="" group-title="TR- SINEMA",TR: CUNEYT ARKIN TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/59070
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SiNEMA TV" tvg-logo="" group-title="TR- SINEMA",TR: SiNEMA TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/37194
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SiNEMA YERLi" tvg-logo="" group-title="TR- SINEMA",TR: SiNEMA YERLi
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/37193
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SiNEMA AKSiYON" tvg-logo="" group-title="TR- SINEMA",TR: SiNEMA AKSiYON
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/37197
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SiNEMA 1001" tvg-logo="" group-title="TR- SINEMA",TR: SiNEMA 1001
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/37195
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SiNEMA AiLE" tvg-logo="" group-title="TR- SINEMA",TR: SiNEMA AiLE
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/37196
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SiNEMA KOMEDi" tvg-logo="" group-title="TR- SINEMA",TR: SiNEMA KOMEDi
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/37198
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: VIZIOON AILE" tvg-logo="" group-title="TR- SINEMA",TR: VIZIOON AILE
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/21460
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: VIZIOON PREMIER" tvg-logo="" group-title="TR- SINEMA",TR: VIZIOON PREMIER
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/14615
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: VIZIOON PREMIER 2" tvg-logo="" group-title="TR- SINEMA",TR: VIZIOON PREMIER 2
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/21459
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: VIZIOON FESTIVAL" tvg-logo="" group-title="TR- SINEMA",TR: VIZIOON FESTIVAL
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/14618
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: VIZIOON ANIMASYON" tvg-logo="" group-title="TR- SINEMA",TR: VIZIOON ANIMASYON
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/14619
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FX" tvg-logo="" group-title="TR- SINEMA",TR: FX
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/33197
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FOX life" tvg-logo="" group-title="TR- SINEMA",TR: FOX life
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/9395
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FOX CRIME HD" tvg-logo="" group-title="TR- SINEMA",TR: FOX CRIME HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/33198
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="----- (TR) COCUK KANALLARI-----" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TURKIYE_LOGO_SD.png" group-title="TR- COCUK",----- (TR) COCUK KANALLARI-----
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/5972
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TRT COCUK HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/TRT_cocuk_250x150.png" group-title="TR- COCUK",TR: TRT COCUK HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/5974
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: cocuk SMART HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/COCUK_SMART_HD.png" group-title="TR- COCUK",TR: cocuk SMART HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/32374
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: CARTOON NETWORK" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/CARTOON_NETWORK_SD.png" group-title="TR- COCUK",TR: CARTOON NETWORK
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/137
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: MINIKA COCUK" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/MINIKA_COCUK_SD.png" group-title="TR- COCUK",TR: MINIKA COCUK
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/5952
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: MINIKA GO HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/MINIKA_GO_SD.png" group-title="TR- COCUK",TR: MINIKA GO HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/5953
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: NICKELODEON HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/NICKELODEON_HD.png" group-title="TR- COCUK",TR: NICKELODEON HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/5946
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: NICKTOONS" tvg-logo="" group-title="TR- COCUK",TR: NICKTOONS
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/36960
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: NICK JR HD" tvg-logo="" group-title="TR- COCUK",TR: NICK JR HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/5947
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: DISNEY JR HD" tvg-logo="" group-title="TR- COCUK",TR: DISNEY JR HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/5948
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: DISNEY CHANNEL" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/DISNEYCHANEL_HD.png" group-title="TR- COCUK",TR: DISNEY CHANNEL
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/13097
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: DISNEY XD" tvg-logo="" group-title="TR- COCUK",TR: DISNEY XD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/17814
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: BABY TV" tvg-logo="" group-title="TR- COCUK",TR: BABY TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/1870
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: BABY FIRST" tvg-logo="" group-title="TR- COCUK",TR: BABY FIRST
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/17815
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: CBEEBIES TV" tvg-logo="" group-title="TR- COCUK",TR: CBEEBIES TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/33536
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: PEPEE TV" tvg-logo="" group-title="TR- COCUK",TR: PEPEE TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/21520
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SEVIMLI DOSTLAR" tvg-logo="" group-title="TR- COCUK",TR: SEVIMLI DOSTLAR
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/59205
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: NILOYA TV" tvg-logo="" group-title="TR- COCUK",TR: NILOYA TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/21521
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="-----DE NATIONAL-----" tvg-logo="" group-title="DE- NATIONAL",-----DE NATIONAL-----
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68353
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:DAS ERSTE FHD/HD" tvg-logo="" group-title="DE- NATIONAL",DE:DAS ERSTE FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68354
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:ONE HD" tvg-logo="" group-title="DE- NATIONAL",DE:ONE HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68367
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:ARTE FHD/HD" tvg-logo="" group-title="DE- NATIONAL",DE:ARTE FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68376
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:ZDF FHD/HD" tvg-logo="" group-title="DE- NATIONAL",DE:ZDF FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68357
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:ZDF INFO HD" tvg-logo="" group-title="DE- NATIONAL",DE:ZDF INFO HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68359
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:ZDF NEO HD" tvg-logo="" group-title="DE- NATIONAL",DE:ZDF NEO HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68360
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:RTL FHD/HD" tvg-logo="" group-title="DE- NATIONAL",DE:RTL FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68362
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:RTL CRIME FHD/HD" tvg-logo="" group-title="DE- NATIONAL",DE:RTL CRIME FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68371
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:RTL NITRO FHD/HD" tvg-logo="" group-title="DE- NATIONAL",DE:RTL NITRO FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68370
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:RTL PASSION FHD/HD" tvg-logo="" group-title="DE- NATIONAL",DE:RTL PASSION FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68363
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:RTL 2 FHD/HD" tvg-logo="" group-title="DE- NATIONAL",DE:RTL 2 FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68364
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:PRO SIEBEN FHD/HD" tvg-logo="" group-title="DE- NATIONAL",DE:PRO SIEBEN FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68361
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:PRO7 FUN FHD" tvg-logo="" group-title="DE- NATIONAL",DE:PRO7 FUN FHD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68373
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:PRO 7 MAXX FHD/HD" tvg-logo="" group-title="DE- NATIONAL",DE:PRO 7 MAXX FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68372
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:KABEL EINS FHD/HD" tvg-logo="" group-title="DE- NATIONAL",DE:KABEL EINS FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68355
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:KABEL EINS CLASSICS HD" tvg-logo="" group-title="DE- NATIONAL",DE:KABEL EINS CLASSICS HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68368
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:TELE5" tvg-logo="" group-title="DE- NATIONAL",DE:TELE5
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68375
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:VOX FHD/HD" tvg-logo="" group-title="DE- NATIONAL",DE:VOX FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68365
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:SAT.1 FHD/HD" tvg-logo="" group-title="DE- NATIONAL",DE:SAT.1 FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68356
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:SAT.1 GOLD FHD/HD" tvg-logo="" group-title="DE- NATIONAL",DE:SAT.1 GOLD FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68366
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:SAT1 EMOTIONS HD" tvg-logo="" group-title="DE- NATIONAL",DE:SAT1 EMOTIONS HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68374
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:3SAT FHD/HD" tvg-logo="" group-title="DE- NATIONAL",DE:3SAT FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68358
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:ZEE ONE HD" tvg-logo="" group-title="DE- NATIONAL",DE:ZEE ONE HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68369
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:WDR FHD/HD" tvg-logo="" group-title="DE- NATIONAL",DE:WDR FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68377
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:MUNCHEN TV FHD" tvg-logo="" group-title="DE- NATIONAL",DE:MUNCHEN TV FHD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68378
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE SKY SELECT INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWD7GgTQtTrLvd0j9zbnxdHgodni6om7ciQwg_I_o7C-WIv9bIyw" group-title="DE - SKY SELECT BOX",DE SKY SELECT INFO
+http://iptv.elsadays.com:8000/movie/cmsiso/fE2N5eAwCq/67621.mp4
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE SKY SELECT 1 HD" tvg-logo="http://cdn99.live:8000/images/dqVQrd9Vnoznp5jXO8rvNq8JHhb_small.jpg" group-title="DE - SKY SELECT BOX",DE SKY SELECT 1 HD
+http://iptv.elsadays.com:8000/movie/cmsiso/fE2N5eAwCq/67613.mp4
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE SKY SELECT 2 HD" tvg-logo="http://cdn99.live:8000/images/ArI8lhVctsC7fmyO68VTdLhr42V_small.jpg" group-title="DE - SKY SELECT BOX",DE SKY SELECT 2 HD
+http://iptv.elsadays.com:8000/movie/cmsiso/fE2N5eAwCq/67614.mp4
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE SKY SELECT 3 HD" tvg-logo="http://cdn99.live:8000/images/3D5vIhFsy2rj4FrBb92Qvg83j1o_small.jpg" group-title="DE - SKY SELECT BOX",DE SKY SELECT 3 HD
+http://iptv.elsadays.com:8000/movie/cmsiso/fE2N5eAwCq/67615.mp4
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE SKY SELECT 4 HD" tvg-logo="http://cdn99.live:8000/images/yRFK1KofIofzH2A5hFfv5ra1gqN_small.jpg" group-title="DE - SKY SELECT BOX",DE SKY SELECT 4 HD
+http://iptv.elsadays.com:8000/movie/cmsiso/fE2N5eAwCq/67616.mp4
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE SKY SELECT 5 HD" tvg-logo="http://cdn99.live:8000/images/vrQ0H7UsrB585wE6prROtZ229j4_small.jpg" group-title="DE - SKY SELECT BOX",DE SKY SELECT 5 HD
+http://iptv.elsadays.com:8000/movie/cmsiso/fE2N5eAwCq/67617.mp4
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE SKY SELECT 6 HD" tvg-logo="http://cdn99.live:8000/images/kRHkjbmlJaj4APDYHIeJQDQ2WWD_small.jpg" group-title="DE - SKY SELECT BOX",DE SKY SELECT 6 HD
+http://iptv.elsadays.com:8000/movie/cmsiso/fE2N5eAwCq/67618.mp4
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE SKY SELECT 7 HD" tvg-logo="http://cdn99.live:8000/images/cbAj6tr7xHTY8GM93R8zeIFLcsu_small.jpg" group-title="DE - SKY SELECT BOX",DE SKY SELECT 7 HD
+http://iptv.elsadays.com:8000/movie/cmsiso/fE2N5eAwCq/67619.mp4
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE SKY SELECT 8 HD" tvg-logo="http://cdn99.live:8000/images/jnbAgkGZYGJ7wKZWMBPxjCfGH6r_small.jpg" group-title="DE - SKY SELECT BOX",DE SKY SELECT 8 HD
+http://iptv.elsadays.com:8000/movie/cmsiso/fE2N5eAwCq/67620.mp4
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="-----DE SKY CINEMA-----" tvg-logo="" group-title="DE- SKY CINEMA",-----DE SKY CINEMA-----
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68379
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:SKY CINEMA FHD/HD" tvg-logo="" group-title="DE- SKY CINEMA",DE:SKY CINEMA FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68380
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:SKY CINEMA 1 FHD/HD" tvg-logo="" group-title="DE- SKY CINEMA",DE:SKY CINEMA 1 FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68381
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:SKY CINEMA 24 FHD/HD" tvg-logo="" group-title="DE- SKY CINEMA",DE:SKY CINEMA 24 FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68382
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:SKY ACTION FHD/HD" tvg-logo="" group-title="DE- SKY CINEMA",DE:SKY ACTION FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68386
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:SKY ATLANTIC FHD/HD" tvg-logo="" group-title="DE- SKY CINEMA",DE:SKY ATLANTIC FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68385
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:SKY CINEMA HITS FHD/HD" tvg-logo="" group-title="DE- SKY CINEMA",DE:SKY CINEMA HITS FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68384
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:SKY CINEMA FAMILY FHD/HD" tvg-logo="" group-title="DE- SKY CINEMA",DE:SKY CINEMA FAMILY FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68383
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:SKY CINEMA COMEDY FHD/HD" tvg-logo="" group-title="DE- SKY CINEMA",DE:SKY CINEMA COMEDY FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68387
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:SKY CINEMA NOSTALGIE FHD/HD" tvg-logo="" group-title="DE- SKY CINEMA",DE:SKY CINEMA NOSTALGIE FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68388
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:SKY EMOTION FHD/HD" tvg-logo="" group-title="DE- SKY CINEMA",DE:SKY EMOTION FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68389
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:SKY 1 FHD/HD" tvg-logo="" group-title="DE- SKY CINEMA",DE:SKY 1 FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68390
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:SKY KRIMI FHD/HD" tvg-logo="" group-title="DE- SKY CINEMA",DE:SKY KRIMI FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68393
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:13TH STREET FHD/HD" tvg-logo="" group-title="DE- SKY CINEMA",DE:13TH STREET FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68391
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:SYFY HD" tvg-logo="" group-title="DE- SKY CINEMA",DE:SYFY HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68392
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:UNIVERSAL TV HD" tvg-logo="" group-title="DE- SKY CINEMA",DE:UNIVERSAL TV HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68394
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:KINOWELT HD" tvg-logo="" group-title="DE- SKY CINEMA",DE:KINOWELT HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68395
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:TNT FILM FHD/HD" tvg-logo="" group-title="DE- SKY CINEMA",DE:TNT FILM FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68396
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:TNT COMEDY FHD/HD" tvg-logo="" group-title="DE- SKY CINEMA",DE:TNT COMEDY FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68397
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:TNT SERIE FHD/HD" tvg-logo="" group-title="DE- SKY CINEMA",DE:TNT SERIE FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68398
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:FOX FHD/HD" tvg-logo="" group-title="DE- SKY CINEMA",DE:FOX FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68399
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:HEIMATKANAL" tvg-logo="" group-title="DE- SKY CINEMA",DE:HEIMATKANAL
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68400
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:ROMANCE TV" tvg-logo="" group-title="DE- SKY CINEMA",DE:ROMANCE TV
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68401
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:SKY POPCORN SELECT 1 FHD/HD" tvg-logo="" group-title="DE- SKY CINEMA",DE:SKY POPCORN SELECT 1 FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68402
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:SKY POPCORN SELECT 2 FHD/HD" tvg-logo="" group-title="DE- SKY CINEMA",DE:SKY POPCORN SELECT 2 FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68403
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:SKY POPCORN SELECT 3 FHD/HD" tvg-logo="" group-title="DE- SKY CINEMA",DE:SKY POPCORN SELECT 3 FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68404
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:SKY POPCORN SELECT 4 FHD/HD" tvg-logo="" group-title="DE- SKY CINEMA",DE:SKY POPCORN SELECT 4 FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68405
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:SKY POPCORN SELECT 5 FHD/HD" tvg-logo="" group-title="DE- SKY CINEMA",DE:SKY POPCORN SELECT 5 FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68406
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:SKY SELECT 1" tvg-logo="" group-title="DE- SKY CINEMA",DE:SKY SELECT 1
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68407
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:SKY SELECT 2" tvg-logo="" group-title="DE- SKY CINEMA",DE:SKY SELECT 2
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68408
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:SKY SELECT 3" tvg-logo="" group-title="DE- SKY CINEMA",DE:SKY SELECT 3
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68409
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:SKY SELECT 4" tvg-logo="" group-title="DE- SKY CINEMA",DE:SKY SELECT 4
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68410
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:SKY SELECT 5" tvg-logo="" group-title="DE- SKY CINEMA",DE:SKY SELECT 5
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68411
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:SKY SELECT 6" tvg-logo="" group-title="DE- SKY CINEMA",DE:SKY SELECT 6
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68412
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="-----DE KINDER-----" tvg-logo="" group-title="DE- KINDER",-----DE KINDER-----
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68452
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:KIKA HD" tvg-logo="" group-title="DE- KINDER",DE:KIKA HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68461
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:SUPER RTL FHD/HD" tvg-logo="" group-title="DE- KINDER",DE:SUPER RTL FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68453
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:TOGGO PLUS FHD/HD" tvg-logo="" group-title="DE- KINDER",DE:TOGGO PLUS FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68454
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:NICKELDEON FHD" tvg-logo="" group-title="DE- KINDER",DE:NICKELDEON FHD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68463
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:NICK/MTV  HD" tvg-logo="" group-title="DE- KINDER",DE:NICK/MTV  HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68462
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:DISNEY CHANNEL FHD/HD" tvg-logo="" group-title="DE- KINDER",DE:DISNEY CHANNEL FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68457
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:DISNEY CINEMAGIC FHD/HD" tvg-logo="" group-title="DE- KINDER",DE:DISNEY CINEMAGIC FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68456
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:DISNEY JUNIOR FHD/HD" tvg-logo="" group-title="DE- KINDER",DE:DISNEY JUNIOR FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68458
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:DISNEY XD HD" tvg-logo="" group-title="DE- KINDER",DE:DISNEY XD HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68459
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:BOOMERANG" tvg-logo="" group-title="DE- KINDER",DE:BOOMERANG
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68455
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:CARTOON NETWORK FHD/HD/SD" tvg-logo="" group-title="DE- KINDER",DE:CARTOON NETWORK FHD/HD/SD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68460
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="-----DE DOKUMENTAR-----" tvg-logo="" group-title="DE- DOKUMENTATION",-----DE DOKUMENTAR-----
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68464
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:E! ENTERTAINMENT FHD/HD" tvg-logo="" group-title="DE- DOKUMENTATION",DE:E! ENTERTAINMENT FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68465
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE: TLC HD" tvg-logo="" group-title="DE- DOKUMENTATION",DE: TLC HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68466
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:DMAX FHD/HD/SD" tvg-logo="" group-title="DE- DOKUMENTATION",DE:DMAX FHD/HD/SD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68467
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:SIXXX FHD" tvg-logo="" group-title="DE- DOKUMENTATION",DE:SIXXX FHD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68468
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:CRIME+INVESTIGATION" tvg-logo="" group-title="DE- DOKUMENTATION",DE:CRIME+INVESTIGATION
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68469
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:HISTORY FHD/HD" tvg-logo="" group-title="DE- DOKUMENTATION",DE:HISTORY FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68470
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:DISCOVERY CHANNEL FHD/HD" tvg-logo="" group-title="DE- DOKUMENTATION",DE:DISCOVERY CHANNEL FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68471
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:NAT GEO FHD/HD" tvg-logo="" group-title="DE- DOKUMENTATION",DE:NAT GEO FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68472
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:NAT GEO WILD FHD" tvg-logo="" group-title="DE- DOKUMENTATION",DE:NAT GEO WILD FHD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68473
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:NAT GEO WILD FHD/HD" tvg-logo="" group-title="DE- DOKUMENTATION",DE:NAT GEO WILD FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68474
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:SPIEGEL GESCHICHTE FHD/HD" tvg-logo="" group-title="DE- DOKUMENTATION",DE:SPIEGEL GESCHICHTE FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68475
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:N24 DOKU" tvg-logo="" group-title="DE- DOKUMENTATION",DE:N24 DOKU
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68477
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:WELT HD" tvg-logo="" group-title="DE- DOKUMENTATION",DE:WELT HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68476
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="-----DE NACHRICHT-----" tvg-logo="" group-title="DE- NACHRICHT",-----DE NACHRICHT-----
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68478
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:PHOENIX" tvg-logo="" group-title="DE- NACHRICHT",DE:PHOENIX
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68481
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:N24 FHD/HD" tvg-logo="" group-title="DE- NACHRICHT",DE:N24 FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68480
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:N-TV FHD/HD" tvg-logo="" group-title="DE- NACHRICHT",DE:N-TV FHD/HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68482
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:EURONEWS" tvg-logo="" group-title="DE- NACHRICHT",DE:EURONEWS
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68479
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="-----DE MUSIK-----" tvg-logo="" group-title="DE- MUSIK",-----DE MUSIK-----
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68483
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:MTV HD" tvg-logo="" group-title="DE- MUSIK",DE:MTV HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68487
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:VIVA/COMEDY CENTRAL" tvg-logo="" group-title="DE- MUSIK",DE:VIVA/COMEDY CENTRAL
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68484
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:DELUXE MUSIC" tvg-logo="" group-title="DE- MUSIK",DE:DELUXE MUSIC
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68488
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:JUKEBOX HD" tvg-logo="" group-title="DE- MUSIK",DE:JUKEBOX HD
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68486
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="DE:CLASSICA" tvg-logo="" group-title="DE- MUSIK",DE:CLASSICA
+http://iptv.elsadays.com:8000/cmsiso/fE2N5eAwCq/68485
